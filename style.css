@@ -2,7 +2,7 @@ body {
   background-color: lightgray;
 }
 
-topBar {
+.topBar {
   align-content: center;
   background-color: red;
   
